@@ -14,5 +14,4 @@ The methodology section is really solid. There were clear explanations of what d
 ###### Miscellaneous
 - There is a (I don't think so?) at the bottom of Interpretation/analysis
 - Some of the graphs have blank space on the left hand sides
-- 
 - I don't actually know very many country abreviations.
